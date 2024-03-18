@@ -6,6 +6,8 @@ import psycopg2
 #Author Owen Renette 101223576
 #Version March 18, 2024
 
+#Credit to (https://psycopg.org/) for postgres connection service
+
 def setup(db_user: str, db_pass:str):
     """
     Initializes the connection to the database.
