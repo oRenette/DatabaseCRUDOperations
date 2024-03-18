@@ -1,6 +1,7 @@
 # DatabaseCRUDOperations
 Provides Create, Read, Update, Delete operations to the Database it connects to.
 ## Setup
+* Video Demo: https://mediaspace.carleton.ca/media/COMP3005A3Q1VideoDemonstration_OwenRenette/1_h56zdoj8
 * Launch pgadmin4
 * Locate the databaseSetup folder
   * Open the createTable.sql file and execute it
