@@ -9,7 +9,8 @@ Provides Create, Read, Update, Delete operations to the Database it connects to.
 * Locate the code folder
   * Open the databaseManipulator.py in your prefered IDE
   * Run the script
-  * Follow the in application instructionsfor how to use the program
+  * FInteract with the IDE shell to use application
+    * Instructions shown in the application
 * Please note that the program assumes default values for the DB port, name, and hostname
   * These values must be altered in the setup() function if they have been changed by the user
 ## Credit
