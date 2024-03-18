@@ -4,6 +4,7 @@ Provides Create, Read, Update, Delete operations to the Database it connects to.
 * Launch pgadmin4
 * Locate the databaseSetup folder
   * Open the createTable.sql file and execute it
+    * If creating through pgadmin4, name the DB 'Assignment3' and remove the 'CREATE DATABASE' querey from the file before executing
   * Open the insertValues.sql file and execute it
     * This will create and inject the 'Assignment3' database to its init state
 * Locate the code folder
