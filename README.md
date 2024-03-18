@@ -16,6 +16,7 @@ Provides Create, Read, Update, Delete operations to the Database it connects to.
   * These values must be altered in the setup() function if they have been changed by the user
 ## Credit
 * psycopg2 online library - connection the the postgres database server
+* Located in .\code\externalLib
 * https://psycopg.org/
 ## Author
 * Owen Renette
