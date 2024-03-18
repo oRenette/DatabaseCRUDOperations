@@ -1,2 +1,19 @@
 # DatabaseCRUDOperations
-Provides Create, Read, Update, Delete Operations to the Database it connects to.
+Provides Create, Read, Update, Delete operations to the Database it connects to.
+## Setup
+* Launch pgadmin4
+* Locate the databaseSetup folder
+  * Open the createTable.sql file and execute it
+  * Open the insertValues.sql file and execute it
+    * This will create and inject the 'Assignment3' database to its init state
+* Locate the code folder
+  * Open the databaseManipulator.py in your prefered IDE
+  * Run the script
+  * Follow the in application instructionsfor how to use the program
+* Please note that the program assumes default values for the DB port, name, and hostname
+  * These values must be altered in the setup() function if they have been changed by the user
+## Credit
+* psycopg2 online library - connection the the postgres database server
+* https://psycopg.org/
+## Author
+* Owen Renette
