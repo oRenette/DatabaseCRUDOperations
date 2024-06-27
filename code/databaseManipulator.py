@@ -3,7 +3,7 @@ import sys
 sys.path.append('./externalLib')
 import psycopg2
 
-#Author Owen Renette 101223576
+#Author Owen Renette
 #Version March 18, 2024
 
 #Credit to (https://psycopg.org/) for postgres connection service
